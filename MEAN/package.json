@@ -1,0 +1,30 @@
+{
+  "name": "mean-hotel-app",
+  "version": "1.0.0",
+  "description": "mean stack application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCarlos831/meanHotel.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "JCM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCarlos831/meanHotel/issues"
+  },
+  "homepage": "https://github.com/JCarlos831/meanHotel#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
